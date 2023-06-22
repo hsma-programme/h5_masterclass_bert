@@ -3,14 +3,8 @@
 #
 # Example of BERT's Next Sentence Prediction
 # 
-# The transformers library must be installed for this code :
-# pip install transformers
-#
-# PyTorch must be installed for this code :
-# pip install torch
-#
-# It is recommended that you use the supplied pt_bert environment, which
-# will save you needed to manually install the correct packages.
+# It is recommended that you use the supplied bert_torch_cpu environment, which
+# will save you needing to manually install the correct packages.
 #
 # Important!  The first time you run this it will need to download some large
 # files.  Be aware of this if you're running it for the first time,
